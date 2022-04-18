@@ -43,34 +43,7 @@
                     </a>
                 </div>
 
-                <div class="col-md-4 mb-5">
-                    <a class="link" href="{{route('inventory.pindah-gudang.index')}}">
-                        <div class="card bg-gradient-warning">
-                            <div class="card-body pt-3">
-                                <div class="text-center">
-                                    <h4 class="text-white text-capitalize font-weight-bold">Pindah Gudang</h4>
-                                    <i class="text-white fas fa-warehouse fa-5x my-3"></i>
-                                    <p class="text-white">Memindahkan dan menyimpan barang di gudang yang dikehendaki.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-md-4 mb-5">
-                    <a class="link" href="#">
-                        <div class="card bg-gradient-primary">
-                            <div class="card-body pt-3">
-                                <div class="text-center">
-                                    <h4 class="text-white text-capitalize font-weight-bold">Produksi</h4>
-                                    <i class="text-white fas fa-hammer fa-5x my-3"></i>
-                                    <p class="text-white">Mencatat bahan mentah, beban, dan barang jadi untuk perlakuan produksi.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
+                
                 <div class="col-md-4 mb-5">
                     <a class="link" href="#">
                         <div class="card bg-gradient-dark">
